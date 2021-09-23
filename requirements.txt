@@ -16,7 +16,7 @@ future==0.18.2
 gensim==3.8.1
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 joblib==0.17.0
 kiwisolver==1.2.0
@@ -28,7 +28,7 @@ numba==0.51.2
 numpy==1.19.2
 packaging==20.4
 pandas==1.1.3
-Pillow==8.0.0
+Pillow==8.3.2
 pooch==1.2.0
 pycparser==2.20
 pydub==0.24.1
@@ -52,6 +52,6 @@ torch==1.6.0
 tqdm==4.50.2
 typing==3.7.4.3
 umap-learn==0.4.6
-urllib3==1.25.8
+urllib3==1.26.5
 webrtcvad==2.0.10
 Werkzeug==1.0.1
